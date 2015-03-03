@@ -1,0 +1,100 @@
+body {
+  padding-top: 70px;  /* Move body of page below navbar. */
+}
+
+.navbar-inverse {
+  background-color: black;
+  height: 70px;
+}
+
+.navbar-inverse .navbar-brand {
+  color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: white;
+}
+
+.uikit {
+  padding: 50px;
+  background: #39f;
+  color: #fff;
+  text-shadow: none;
+  height: 670px;
+}
+
+.uikit .large-text {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 300;
+  margin-bottom: 50px;
+}
+
+.centered {
+  text-align: center;
+}
+
+.uikit .btn-default {
+  margin: -30px 0 15px 0;
+  box-shadow: 1px 1px 1px rgba(0,0,0,0.1);
+  background: #fff;
+  border: none;
+  color: #2ba3d4 !important;
+  min-height: 50px;
+  padding: 0 30px;
+  line-height: 50px;
+  font-size: 18px;
+}
+
+.features {
+  background: #3dc0f1;
+  color: #fff;
+  text-shadow: none;
+  height: 630px;
+}
+
+.features h1 {
+  margin-top: 50px;
+  color: #fff;
+  font-size: 52px;
+  line-height: 64px;
+  text-align: center;
+}
+
+.features .large-text {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 300;
+  margin-bottom: 50px;
+}
+
+.get-involved {
+  background: #fff;
+  height: 500px;
+}
+
+.open-source {
+  background: #3dc0f1;
+  height: 500px;
+}
+
+.footer {
+  background: black;
+  height: 300px;
+}
+
+.page-content {
+  padding: 10px;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
